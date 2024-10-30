@@ -1,6 +1,6 @@
 pandas==2.2.2
 numpy==1.26.4
-scikit-learn==1.4.2
+scikit-learn==1.5.0
 matplotlib
 statsmodels
 astropy==6.1.0
